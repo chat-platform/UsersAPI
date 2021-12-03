@@ -1,0 +1,1 @@
+An open source REST API for user data that signs user tokens for use in the chat-platform. (WIP)
